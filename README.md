@@ -53,43 +53,56 @@ https://github.com/tripurag33-bit/Supermart-sales-analysis-version-2/blob/cf55ba
 https://github.com/tripurag33-bit/Supermart-sales-analysis-version-2/blob/8136777c4c9ba648498240a6aa45b235dac0f9db/BlinkIT%20Grocery%20Data%20Consolidated%20Sales%20%26%20Outlet%20Analysis%20Dashboard%20(from%20Excel).png
 
 Across all 8,523 product records in the BlinkIT Grocery Data sheet, total sales are $1,201,681.49 with an average sale of $140.99 per record and an average item visibility of 6.61% (0.0661), led by Supermarket Type1 (65.5% of sales) and Tier 3 locations (39.3% of sales).  
-Key Performance Indicators (KPIs)
-Total Sales: $1,201,681.49  
-Average Sales per Record: $140.99  
-Average Item Visibility: 6.61% (0.0661)
-Total Product Records: 8,523  
+•Key Performance Indicators (KPIs)
+1.Total Sales: $1,201,681.49  
+2.Average Sales per Record: $140.99  
+3.Average Item Visibility: 6.61% (0.0661)
+4.Total Product Records: 8,523  
 Analysis & Visualizations Breakdown
-1. Product Category Sales Analysis & Top 4 Contribution
+
+       1. Product Category Sales Analysis & Top 4 Contribution
 Top 4 Categories Contribution: Fruits and Vegetables, Snack Foods, Household, and Frozen Foods together generate $608,093.41 (50.6% of total sales across 4,198 records), compared to $593,588.08 (49.4%) across the remaining 12 categories.  
-Category Sales Ranking:
-Fruits and Vegetables: $178,124.08 (14.8% share | 1,232 records | $144.58 avg)  
-Snack Foods: $175,433.92 (14.6% share | 1,200 records | $146.19 avg)  
-Household: $135,976.53 (11.3% share | 910 records | $149.42 avg)  
+
+
+      Category Sales Ranking:
+               Fruits and Vegetables: $178,124.08 (14.8% share | 1,232 records | $144.58 avg)  
+         Snack Foods: $175,433.92 (14.6% share | 1,200 records | $146.19 avg)  
+   Household: $135,976.53 (11.3% share | 910 records | $149.42 avg)  
 Frozen Foods: $118,558.88 (9.9% share | 856 records | $138.50 avg)  
 Dairy: $101,276.46 (8.4% share | 682 records | $148.50 avg)  
 Canned: $90,706.73 (7.5% share | 649 records | $139.76 avg)  
 Baking Goods: $81,894.74 (6.8% share | 648 records | $126.38 avg)  
 Health and Hygiene: $68,025.84 (5.7% share | 520 records | $130.82 avg)  
-Meat: $59,449.86 (4.9% share | 425 records | $139.88 avg)  
+        Meat: $59,449.86 (4.9% share | 425 records | $139.88 avg)  
 Soft Drinks: $58,514.17 (4.9% share | 445 records | $131.49 avg)  
 Breads: $35,379.12 (2.9% share | 251 records | $140.95 avg)  
 Hard Drinks: $29,334.68 (2.4% share | 214 records | $137.08 avg)  
-Others: $22,451.89 (1.9% share | 169 records | $132.85 avg)  
+         Others: $22,451.89 (1.9% share | 169 records | $132.85 avg)  
 Starchy Foods: $21,880.03 (1.8% share | 148 records | $147.84 avg)  
 Breakfast: $15,596.70 (1.3% share | 110 records | $141.79 avg)  
 Seafood: $9,077.87 (0.8% share | 64 records | $141.84 avg)  
+
+
 2. Outlet Type Performance Comparison
-Supermarket Type1: $787,549.89 (65.5% share | 5,577 records | $141.21 avg sale | 6.07% avg visibility)  
-Grocery Store: $151,939.15 (12.6% share | 1,083 records | $140.29 avg sale | 10.49% avg visibility)  
+         Supermarket Type1: $787,549.89 (65.5% share | 5,577 records | $141.21 avg sale | 6.07% avg visibility)  
+     Grocery Store: $151,939.15 (12.6% share | 1,083 records | $140.29 avg sale | 10.49% avg visibility)  
 Supermarket Type2: $131,477.78 (10.9% share | 928 records | $141.68 avg sale | 6.10% avg visibility)  
 Supermarket Type3: $130,714.67 (10.9% share | 935 records | $139.80 avg sale | 5.86% avg visibility)  
+
+
 3. Low Fat vs. Regular Product Sales
 Low Fat (standardized from Low Fat, low fat, and LF): $776,319.69 (64.6% share | 5,517 records | $140.71 avg sale | 6.43% avg visibility)  
 Regular (standardized from Regular and reg): $425,361.80 (35.4% share | 3,006 records | $141.50 avg sale | 6.94% avg visibility)  
+
+
+
 4. Geographic Performance (Tier 1, Tier 2, and Tier 3)
 Tier 3: $472,133.03 (39.3% share | 3,350 records | $140.94 avg sale | 6.68% avg visibility)  
 Tier 2: $393,150.65 (32.7% share | 2,785 records | $141.17 avg sale | 6.10% avg visibility)  
 Tier 1: $336,397.81 (28.0% share | 2,388 records | $140.87 avg sale | 7.12% avg visibility)  
+
+
+
 5. Sales Distribution & Visibility vs. Sales Relationship
 Sales Distribution by Price Band:
 $0–$50: 757 records
