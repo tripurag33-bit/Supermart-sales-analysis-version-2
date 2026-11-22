@@ -42,6 +42,6 @@ Project Outcome
 
 Successfully developed a comprehensive Excel dashboard with KPI cards, geographic performance analysis, charts, statistical insights and a project summary to support data-driven business decisions.
 
-SUPERMART SALES ANALYSIS EXCEL SHEET IS HERE👇👇👇✅
+SUPERMART SALES ANALYSIS EXCEL SHEET lINK IS HERE👇👇👇✅
 
 https://github.com/tripurag33-bit/Supermart-sales-analysis-version-2/blob/5ad218127681ec4c5eb5da30d732614533f38112/Supermarket_Sales_Analysis_Dashboard_Solved.xlsx
