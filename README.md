@@ -48,4 +48,4 @@ https://github.com/tripurag33-bit/Supermart-sales-analysis-version-2/blob/5ad218
 
 Through excel sheet images 📷📷📷👇👇✅
 
-https://github.com/tripurag33-bit/Supermart-sales-analysis-version-2/blob/f7d73c56715706154b0f8ed921b60d1339eaf88e/Sales%20and%20outlet%20overview.png
+https://github.com/tripurag33-bit/Supermart-sales-analysis-version-2/blob/cf55baff569551a7faee59a23b5ff8aa7315442d/Excel%20Sheet%20Preview%20%26%20Outlet%20Size%20Breakdown%20('BlinkIT%20Grocery%20Data')BlinkIT%20Grocery%20Data%20-%20Sales%20%26%20Outlet%20Overview%20(from%20Excel).png
