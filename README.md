@@ -45,3 +45,7 @@ Successfully developed a comprehensive Excel dashboard with KPI cards, geographi
 SUPERMART SALES ANALYSIS EXCEL SHEET lINK IS HERE👇👇👇✅
 
 https://github.com/tripurag33-bit/Supermart-sales-analysis-version-2/blob/5ad218127681ec4c5eb5da30d732614533f38112/Supermarket_Sales_Analysis_Dashboard_Solved.xlsx
+
+Through excel sheet images 📷📷📷👇👇✅
+
+https://github.com/tripurag33-bit/Supermart-sales-analysis-version-2/blob/f7d73c56715706154b0f8ed921b60d1339eaf88e/Sales%20and%20outlet%20overview.png
